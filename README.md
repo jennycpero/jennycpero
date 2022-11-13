@@ -7,6 +7,3 @@
 - ✨ Markup languages
 - 📖 Open Source
 
-### Let me know if you need any help related to documentation, markup, or analysis; I am looking for more open source exprience!
-
-
