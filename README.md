@@ -4,6 +4,7 @@
 - 📊 Data analysis
 - ✍🏻 Documentation
 - 🐍 Python
+- 🖥️ Web development
 - ✨ Markup languages
 - 📖 Open Source
 
