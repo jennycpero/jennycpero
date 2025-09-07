@@ -11,4 +11,5 @@
 - Education
 - Entertainment (especially Music)
 - Librairies and Archives
+- Research and Analytics
 
