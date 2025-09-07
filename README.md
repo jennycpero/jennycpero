@@ -1,2 +1,14 @@
-### Junior Technical Writer/Editor and recent Computer Science grad.
+# Programming and Markup Languages
+- DITA XML
+- HTML/CSS
+- Python
+- Markdown
+- C++
+
+# Preferred Industries
+- Public Service/Government
+- Transportation
+- Education
+- Entertainment (especially Music)
+- Librairies and Archives
 
