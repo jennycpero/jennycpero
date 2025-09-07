@@ -10,6 +10,6 @@
 - Transportation
 - Education
 - Entertainment (especially Music)
-- Librairies and Archives
+- Libraries and Archives
 - Research and Analytics
 
